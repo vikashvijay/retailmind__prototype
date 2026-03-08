@@ -1,0 +1,8 @@
+flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+groq==0.9.0
+boto3==1.34.144
+python-dotenv==1.0.1
+gunicorn==22.0.0
